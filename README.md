@@ -4,7 +4,7 @@ This will be the repository to host my Obtainium JSON packages for easy importin
 
 Artemis (Streaming client)
 
-Azahar (3DS Emulator
+Azahar (3DS Emulator)
 
 Cemu (Fork) (Wii U Emulator)
 
