@@ -1,6 +1,6 @@
 This will be the repository to host my Obtainium JSON packages for easy importing into Obtainium. 
 
-This is what's included:
+**This is what's included:**
 
 Artemis (Streaming client)
 
@@ -30,7 +30,7 @@ Syncthing Fork (Sync files across devices)
 
 Vita3K (Vita Emulator)
 
-And for the dual screen version:
+**And the dual screen version uses the following as replacements:**
 
 Cemu Dual Screen
 
