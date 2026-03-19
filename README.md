@@ -6,7 +6,7 @@ Artemis (Streaming client)
 
 Azahar (3DS Emulator
 
-Cemu (Wii U Emulator)
+Cemu (Fork) (Wii U Emulator)
 
 Daijisho (Frontend)
 
@@ -16,7 +16,7 @@ Duckstation (PS1 Emulator)
 
 Eden (Switch Emulator)
 
-MelonDS (Stable) (DS Emulator)
+MelonDS (Fork) (NDS Emulator)
 
 NetherSX2 (Newest) (PS2 Emulator)
 
@@ -29,9 +29,3 @@ RPCSX (PS3 Emulator)
 Syncthing Fork (Sync files across devices)
 
 Vita3K (Vita Emulator)
-
-**And the dual screen version uses the following as replacements:**
-
-Cemu Dual Screen
-
-MelonDS Dual Screen
