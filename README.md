@@ -31,5 +31,7 @@ Syncthing Fork (Sync files across devices)
 Vita3K (Vita Emulator)
 
 And for the dual screen version:
+
 Cemu Dual Screen
+
 MelonDS Dual Screen
