@@ -10,7 +10,7 @@ This will be the repository to host my Obtainium JSON packages for easy importin
 - **[Dolphin (Stable) (GameCube/Wii Emulator)](https://dolphin-emu.org/download/)**
 - **[Duckstation (PS1 Emulator)](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation)**
 - **[Eden (Switch Emulator)](https://eden-emu.dev/download)**
-- **[GameNative](https://github.com/utkarshdalal/GameNative)**
+- **[GameNative (PC Emulation)](https://github.com/utkarshdalal/GameNative)**
 - **[MelonDS (Fork) (NDS Emulator)](https://github.com/SapphireRhodonite/melonDS-android)**
 - **[NetherSX2 (Newest) (PS2 Emulator)](https://github.com/Trixarian/NetherSX2-patch)**
 - **[PPSSPP (PSP Emulator)](https://www.ppsspp.org/download/)**
