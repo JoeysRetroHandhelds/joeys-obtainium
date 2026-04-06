@@ -18,3 +18,5 @@ This will be the repository to host my Obtainium JSON packages for easy importin
 - **[RPCSX (PS3 Emulator)](https://github.com/RPCSX/rpcsx-ui-android-build)**
 - **[Syncthing Fork (Sync files across devices)](https://github.com/researchxxl/syncthing-android)**
 - **[Vita3K (Vita Emulator)](https://github.com/Vita3K/Vita3K)**
+
+[Special thanks to RJNY and his awesome pack for Obtainium for everything you see above!](https://github.com/RJNY/Obtainium-Emulation-Pack)
