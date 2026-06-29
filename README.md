@@ -1,5 +1,9 @@
 This will be the repository to host my Obtainium JSON packages for easy importing into Obtainium. 
 
+**What to choose for each app:**
+Some apps may have multiple choices when trying to install in Obtainium, here's what you should choose.
+- For Eden, you want the one that ends in standard.apk
+
 **This is what's included:**
 
 - **[APS3E (PS3 Emulator)](https://github.com/aenu1/aps3e)**
