@@ -9,6 +9,8 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 
 - **[APS3E (PS3 Emulator)](https://github.com/aenu1/aps3e)**
   - **[APS3E Setup Guide](https://www.joeysretrohandhelds.com/guides/aps3e-ps3-android-setup-guide/)**
+- **[ARMSX2 (PS2 Emulator)](https://github.com/ARMSX2/ARMSX2/releases)**
+  - **No Setup Guide Currently** 
 - **[Artemis (Streaming client)](https://github.com/ClassicOldSong/Apollo)**
   - **[Artemis Setup Guide](https://www.joeysretrohandhelds.com/guides/apollo-artemis-streaming-setup-guide/)**
 - **[Azahar (3DS Emulator)](https://github.com/azahar-emu/azahar)**
