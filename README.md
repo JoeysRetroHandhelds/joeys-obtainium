@@ -4,6 +4,7 @@ This will be the repository to host my Obtainium JSON packages for easy importin
 
 Some apps may have multiple choices when trying to install in Obtainium, here's what you should choose.
 - For Eden, you want the one that ends in standard.apk
+- For GameNative, you want the APK that does not have -xr at the end
 
 **This is what's included:**
 
