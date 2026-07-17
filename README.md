@@ -1,3 +1,7 @@
+# joeys-obtainium
+
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://joeysrh.link/discord)
+
 This will be the repository to host my Obtainium JSON packages for easy importing into Obtainium. 
 
 **What to choose for each app:**
