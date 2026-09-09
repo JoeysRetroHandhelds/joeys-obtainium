@@ -8,7 +8,9 @@ This will be the repository to host my Obtainium JSON packages for easy importin
 
 Some apps may have multiple choices when trying to install in Obtainium, here's what you should choose.
 - For Obtainium, choose app-release.apk
+- For ARMSX2/ARMSX3, choose the one with your Android version in the filename (ex. A13)
 - For Eden, you want the one that ends in standard.apk
+- joeys-obtainium is just to let you know of new updates to the pack
 - For GameNative, you want the APK that does not have -xr at the end
 
 **This is what's included:**
