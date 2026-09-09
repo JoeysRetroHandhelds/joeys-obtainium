@@ -16,7 +16,9 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 - **[APS3E (PS3 Emulator)](https://github.com/aenu1/aps3e)**
   - **[APS3E Setup Guide](https://www.joeysretrohandhelds.com/guides/aps3e-ps3-android-setup-guide/)**
 - **[ARMSX2 (PS2 Emulator)](https://github.com/ARMSX2/ARMSX2/releases)**
-  - **No Setup Guide Currently** 
+  - **[ARMSX2 Setup Guide](https://www.joeysretrohandhelds.com/guides/armsx2-setup-guide/)**
+- **[ARMSX3 (PS3 Emulator)](https://github.com/ARMSX2/ARMSX3/releases)**
+  - **[ARMSX3 Setup Guide](https://www.joeysretrohandhelds.com/guides/armsx3-setup-guide/)** 
 - **[Artemis (Streaming client)](https://github.com/ClassicOldSong/Apollo)**
   - **[Artemis Setup Guide](https://www.joeysretrohandhelds.com/guides/apollo-artemis-streaming-setup-guide/)**
 - **[Azahar (3DS Emulator)](https://github.com/azahar-emu/azahar)**
@@ -33,8 +35,6 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[Eden Setup Guide](https://www.joeysretrohandhelds.com/guides/switch-emulators-on-android-setup-guide/)**
 - **[GameNative (PC Emulation)](https://github.com/utkarshdalal/GameNative)**
   - **[GameNative Setup Guide](https://www.joeysretrohandhelds.com/guides/gamenative-setup-guide/)**
-- **[MelonDualDS (Fork) (NDS Emulator)](https://github.com/SapphireRhodonite/melonDS-android)**
-  - **[MelonDualDS Setup Guide](https://www.joeysretrohandhelds.com/guides/melonds-android-setup-guide/)**
 - **[NetherSX2 (Newest) (PS2 Emulator)](https://github.com/Trixarian/NetherSX2-patch)**
   - **[NetherSX2 Setup Guide](https://www.joeysretrohandhelds.com/guides/nethersx2-setup-guide/)**
 - **[PPSSPP (PSP Emulator)](https://www.ppsspp.org/download/)**
@@ -47,5 +47,6 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[Syncthing Setup Guide](https://www.joeysretrohandhelds.com/guides/syncthing-for-handhelds-guide/)**
 - **[Vita3K (Vita Emulator)](https://github.com/Vita3K/Vita3K)**
   - **[Vita3K Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
+- **WatermelonDS - guide to come**
 
 [Special thanks to RJNY and his awesome pack for Obtainium for everything you see above!](https://github.com/RJNY/Obtainium-Emulation-Pack)
