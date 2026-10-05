@@ -49,6 +49,7 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[Syncthing Setup Guide](https://www.joeysretrohandhelds.com/guides/syncthing-for-handhelds-guide/)**
 - **[Vita3K (Vita Emulator)](https://github.com/Vita3K/Vita3K)**
   - **[Vita3K Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
-- **WatermelonDS - guide to come**
+- **[WatermelonDS (NDS Emulator)](https://github.com/SapphireRhodonite/WatermelonDS)**
+   - **guide to come**
 
 [Special thanks to RJNY and his awesome pack for Obtainium for everything you see above!](https://github.com/RJNY/Obtainium-Emulation-Pack)
