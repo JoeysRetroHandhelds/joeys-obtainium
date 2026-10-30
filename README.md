@@ -40,8 +40,6 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[RetroArch Setup Guide](https://www.joeysretrohandhelds.com/guides/retroarch-setup-guide/)**
 - **[Syncthing Fork (Sync files across devices)](https://github.com/researchxxl/syncthing-android)**
   - **[Syncthing Setup Guide](https://www.joeysretrohandhelds.com/guides/syncthing-for-handhelds-guide/)**
-- **[Vita3K (Vita Emulator)](https://github.com/Vita3K/Vita3K)**
-  - **[Vita3K Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
 - **[Vita3K Plus (Vita Emulator)](https://github.com/nckstwrt/Vita3K-Plus/)**
   - **[Vita3K Plus Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
 - **[WatermelonDS (NDS Emulator)](https://github.com/SapphireRhodonite/WatermelonDS)**
