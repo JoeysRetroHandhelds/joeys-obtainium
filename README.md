@@ -27,7 +27,7 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[CEMU Setup Guide](https://www.joeysretrohandhelds.com/guides/cemu-android-setup-guide/)**
 - **[Dolphin (Stable) (GameCube/Wii Emulator)](https://dolphin-emu.org/download/)**
   - **[Dolphin Setup Guide](https://www.joeysretrohandhelds.com/guides/dolphin-android-setup-guide/)**
- - **[DroidDeck (PC Emulation)](https://github.com/Droid-Deck/DroidDeck)**
+- **[DroidDeck (PC Emulation)](https://github.com/Droid-Deck/DroidDeck)**
   - **[DroidDeck Setup Guide](https://www.joeysretrohandhelds.com/guides/droiddeck-setup-guide/)**   
 - **[Eden (Switch Emulator)](https://eden-emu.dev/download)**
   - **[Eden Setup Guide](https://www.joeysretrohandhelds.com/guides/switch-emulators-on-android-setup-guide/)**
@@ -44,8 +44,8 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 - **[Vita3K Plus (Vita Emulator)](https://github.com/nckstwrt/Vita3K-Plus/)**
   - **[Vita3K Plus Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
 - **[WatermelonDS (NDS Emulator)](https://github.com/SapphireRhodonite/WatermelonDS)**
-   - **[WatermelonDS Setup Guide]](https://www.joeysretrohandhelds.com/guides/watermelonds-setup-guide/)**
+  - **[WatermelonDS Setup Guide](https://www.joeysretrohandhelds.com/guides/watermelonds-setup-guide/)**
 - **[XenDroid (XBOX 360 Emulator)](https://github.com/rfandango/XenDroid)**
-   - **[XenDroid Setup Guide]](https://www.joeysretrohandhelds.com/guides/xendroid-setup-guide/)**
+  - **[XenDroid Setup Guide](https://www.joeysretrohandhelds.com/guides/xendroid-setup-guide/)**
 
 [Special thanks to RJNY and his awesome pack for Obtainium for everything you see above!](https://github.com/RJNY/Obtainium-Emulation-Pack)
