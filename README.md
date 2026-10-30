@@ -12,6 +12,7 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 - For Eden, you want the one that ends in standard.apk
 - joeys-obtainium is just to let you know of new updates to the pack
 - For GameNative, you want the APK that does not have -xr at the end
+- For DroidDeck, you want the APK that has nothing added to it, so it just says DroidDeck-X.X.X.apk
 
 **This is what's included:**
 
