@@ -29,7 +29,9 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 - **[Dolphin (Stable) (GameCube/Wii Emulator)](https://dolphin-emu.org/download/)**
   - **[Dolphin Setup Guide](https://www.joeysretrohandhelds.com/guides/dolphin-android-setup-guide/)**
 - **[DroidDeck (PC Emulation)](https://github.com/Droid-Deck/DroidDeck)**
-  - **[DroidDeck Setup Guide](https://www.joeysretrohandhelds.com/guides/droiddeck-setup-guide/)**   
+  - **[DroidDeck Setup Guide](https://www.joeysretrohandhelds.com/guides/droiddeck-setup-guide/)**
+- **[DuckStation (PS1 Emulation)](https://downloads.duckstation.org/android-testing/)**
+  - **No setup guide yet**  
 - **[Eden (Switch Emulator)](https://eden-emu.dev/download)**
   - **[Eden Setup Guide](https://www.joeysretrohandhelds.com/guides/switch-emulators-on-android-setup-guide/)**
 - **[hakuX (XBOX Emulator)](https://github.com/rfandango/hakuX)**
