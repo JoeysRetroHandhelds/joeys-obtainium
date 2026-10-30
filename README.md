@@ -15,8 +15,6 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
 
 **This is what's included:**
 
-- **[APS3E (PS3 Emulator)](https://github.com/aenu1/aps3e)**
-  - **[APS3E Setup Guide](https://www.joeysretrohandhelds.com/guides/aps3e-ps3-android-setup-guide/)**
 - **[ARMSX2 (PS2 Emulator)](https://github.com/ARMSX2/ARMSX2/releases)**
   - **[ARMSX2 Setup Guide](https://www.joeysretrohandhelds.com/guides/armsx2-setup-guide/)**
 - **[ARMSX3 (PS3 Emulator)](https://github.com/ARMSX2/ARMSX3/releases)**
@@ -27,29 +25,27 @@ Some apps may have multiple choices when trying to install in Obtainium, here's 
   - **[Azahar Setup Guide](https://www.joeysretrohandhelds.com/guides/azahar-android-setup-guide/)**
 - **[Cemu (Fork) (Wii U Emulator)](https://github.com/SapphireRhodonite/Cemu)**
   - **[CEMU Setup Guide](https://www.joeysretrohandhelds.com/guides/cemu-android-setup-guide/)**
-- **[Daijisho (Frontend)](https://github.com/TapiocaFox/Daijishou)**
-  - **[APS3E Setup Guide](https://www.joeysretrohandhelds.com/guides/aps3e-ps3-android-setup-guide/)**
 - **[Dolphin (Stable) (GameCube/Wii Emulator)](https://dolphin-emu.org/download/)**
   - **[Dolphin Setup Guide](https://www.joeysretrohandhelds.com/guides/dolphin-android-setup-guide/)**
-- **[Duckstation (PS1 Emulator)](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation)**
-  - **[Duckstation Setup Guide](https://www.joeysretrohandhelds.com/guides/duckstation-android-setup-guide/)**
+ - **[DroidDeck (PC Emulation)](https://github.com/Droid-Deck/DroidDeck)**
+  - **[DroidDeck Setup Guide](https://www.joeysretrohandhelds.com/guides/droiddeck-setup-guide/)**   
 - **[Eden (Switch Emulator)](https://eden-emu.dev/download)**
   - **[Eden Setup Guide](https://www.joeysretrohandhelds.com/guides/switch-emulators-on-android-setup-guide/)**
-- **[GameNative (PC Emulation)](https://github.com/utkarshdalal/GameNative)**
-  - **[GameNative Setup Guide](https://www.joeysretrohandhelds.com/guides/gamenative-setup-guide/)**
-- **[NetherSX2 (Newest) (PS2 Emulator)](https://github.com/Trixarian/NetherSX2-patch)**
-  - **[NetherSX2 Setup Guide](https://www.joeysretrohandhelds.com/guides/nethersx2-setup-guide/)**
+- **[hakuX (XBOX Emulator)](https://github.com/rfandango/hakuX)**
+  - **[hakuX Setup Guide](https://www.joeysretrohandhelds.com/guides/hakux-setup-guide/)**
 - **[PPSSPP (PSP Emulator)](https://www.ppsspp.org/download/)**
   - **[PPSSPP Setup Guide](https://www.joeysretrohandhelds.com/guides/ppsspp-android-setup-guide/)**
 - **[RetroArch (Stable) (Multi-system Emulator)](https://www.retroarch.com/?page=platforms)**
   - **[RetroArch Setup Guide](https://www.joeysretrohandhelds.com/guides/retroarch-setup-guide/)**
-- **[RPCSX (PS3 Emulator)](https://github.com/RPCSX/rpcsx-ui-android-build)**
-  - **[RPCSX Setup Guide](https://www.joeysretrohandhelds.com/guides/rpcsx-ps3-android-setup-guide/)**
 - **[Syncthing Fork (Sync files across devices)](https://github.com/researchxxl/syncthing-android)**
   - **[Syncthing Setup Guide](https://www.joeysretrohandhelds.com/guides/syncthing-for-handhelds-guide/)**
 - **[Vita3K (Vita Emulator)](https://github.com/Vita3K/Vita3K)**
   - **[Vita3K Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
+- **[Vita3K Plus (Vita Emulator)](https://github.com/nckstwrt/Vita3K-Plus/)**
+  - **[Vita3K Plus Setup Guide](https://www.joeysretrohandhelds.com/guides/vita3k-android-setup-guide/)**
 - **[WatermelonDS (NDS Emulator)](https://github.com/SapphireRhodonite/WatermelonDS)**
-   - **guide to come**
+   - **[WatermelonDS Setup Guide]](https://www.joeysretrohandhelds.com/guides/watermelonds-setup-guide/)**
+- **[XenDroid (XBOX 360 Emulator)](https://github.com/rfandango/XenDroid)**
+   - **[XenDroid Setup Guide]](https://www.joeysretrohandhelds.com/guides/xendroid-setup-guide/)**
 
 [Special thanks to RJNY and his awesome pack for Obtainium for everything you see above!](https://github.com/RJNY/Obtainium-Emulation-Pack)
