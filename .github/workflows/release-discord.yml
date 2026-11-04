@@ -1,0 +1,20 @@
+name: Release to Discord
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post release to Discord
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          NAME: ${{ github.event.release.name || github.event.release.tag_name }}
+          BODY: ${{ github.event.release.body }}
+          URL: ${{ github.event.release.html_url }}
+          REPO: ${{ github.event.repository.name }}
+        run: |
+          jq -n --arg t "$NAME" --arg d "${BODY:0:4000}" --arg u "$URL" --arg a "$REPO" \
+            '{embeds:[{author:{name:$a}, title:$t, url:$u, description:$d, color:5814783}]}' \
+          | curl -sf -H "Content-Type: application/json" -d @- "$WEBHOOK"
