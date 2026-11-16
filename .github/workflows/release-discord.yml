@@ -10,11 +10,18 @@ jobs:
       - name: Post release to Discord
         env:
           WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          NAME: ${{ github.event.release.name || github.event.release.tag_name }}
-          BODY: ${{ github.event.release.body }}
-          URL: ${{ github.event.release.html_url }}
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name }}
           REPO: ${{ github.event.repository.name }}
         run: |
-          jq -n --arg t "$NAME" --arg d "${BODY:0:4000}" --arg u "$URL" --arg a "$REPO" \
-            '{embeds:[{author:{name:$a}, title:$t, url:$u, description:$d, color:5814783}]}' \
+          gh api "repos/${{ github.repository }}/releases/tags/$TAG" > release.json
+          jq --arg a "$REPO" --arg u "$(jq -r .html_url release.json)" '
+          def snip($u):
+            if length <= 500 then .
+            else .[:500] as $s
+              | ([($s | rindex("\n")), ($s | rindex(" "))] | map(select(. != null and . > 200)) | first) as $i
+              | ($s[:($i // 500)] | sub("\\s+$"; "")) + "\n\n… [**Full notes →**](" + $u + ")"
+            end;
+          {embeds: [{author: {name: $a}, title: (.name // .tag_name), url: .html_url,
+                     description: ((.body // "") | snip($u)), color: 5814783}]}' release.json \
           | curl -sf -H "Content-Type: application/json" -d @- "$WEBHOOK"
